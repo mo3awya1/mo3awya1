@@ -34,8 +34,8 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Bazoka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://github.com/mo3awya1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://codeforces.com/profile/Bazoka" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-814-orange?style=for-the-badge&logo=codeforces" alt="Codeforces">

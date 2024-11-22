@@ -34,7 +34,7 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://orankrty1.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Connect-green?style=for-the-badge&logo=blogger" alt="Blog">
+  <a href="https://github.com/mo3awya1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>

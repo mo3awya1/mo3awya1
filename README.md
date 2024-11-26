@@ -1,3 +1,4 @@
+![Funny Cat GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliMWpwbTN3YmJ1dTg2NWtmM3EwaW9pNDFqNmZlam1sbDBmbHdnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRTWUOLO7NSUsdhAur/giphy.gif)
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 

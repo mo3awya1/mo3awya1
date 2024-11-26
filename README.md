@@ -1,6 +1,3 @@
-## Examples
-![Nature View](![image](https://github.com/user-attachments/assets/c7993978-389d-4029-9cfd-139ad1a91562)
-)
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 

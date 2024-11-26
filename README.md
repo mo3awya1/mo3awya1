@@ -1,3 +1,6 @@
+## Examples
+![Nature View](https://i.imgur.com/Uoe1Bys.png)
+
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">

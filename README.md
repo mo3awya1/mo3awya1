@@ -1,5 +1,5 @@
 ## Examples
-![Nature View](https://i.imgur.com/Uoe1Bys.png)
+![Nature View](https://i.imgur.com/bGhClBK.mp4)
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 

@@ -41,6 +41,3 @@
     <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
-
-## Examples
-![Nature View](https://i.imgur.com/bGhClBK.mp4)
